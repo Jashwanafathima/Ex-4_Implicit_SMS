@@ -1,7 +1,13 @@
 
 # Ex.No:4 Design an android application Send SMS using Intent.
+## PROGRAM:
+Program to create and design an android application Send SMS using Intent.
 
+Developed by: Jashwana Fathima S
 
+Registeration Number : 212222040059
+
+Date: 9.09.2024
 ## AIM:
 
 To create and design an android application Send SMS using Intent using Android Studio.
@@ -25,15 +31,6 @@ Step 5: Design layout in activity_main.xml.
 Step 6: Send SMS and Display details give in MainActivity file.
 
 Step 7: Save and run the application.
-
-## PROGRAM:
-```
-/*
-Program to create and design an android application Send SMS using Intent.
-Developed by: Jashwana Fathima S
-Registeration Number : 212222040059
-*/
-```
 
 ## MainActivity.java:
 ```
